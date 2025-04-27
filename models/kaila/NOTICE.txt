@@ -1,0 +1,2 @@
+These assets are licensed under CC BY-NC 4.0.
+See the LICENSE file in the root of this repository for full terms.
